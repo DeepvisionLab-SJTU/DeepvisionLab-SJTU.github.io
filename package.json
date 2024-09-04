@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@css-render/vue3-ssr": "^0.15.14",
+    "@types/node": "^20.14.0",
+    "axios": "^1.7.2",
+    "markdown-it-mathjax3": "^4.3.2",
+    "naive-ui": "^2.38.2",
+    "seemly": "^0.3.8",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-vue-components": "^0.27.0",
+    "vitepress": "^1.2.2",
+    "vue": "^3.4.27"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
+}

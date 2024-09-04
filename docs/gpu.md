@@ -1,0 +1,4 @@
+---
+layout: gpustat
+sidebar: false
+---
