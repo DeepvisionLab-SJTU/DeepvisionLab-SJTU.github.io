@@ -1,0 +1,1 @@
+import{_ as a,P as e,O as t}from"./chunks/framework.N_DV59mb.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"callback"},"headers":[],"relativePath":"group_callback.md","filePath":"group_callback.md"}'),c={name:"group_callback.md"};function r(o,l,s,n,p,_){return t(),e("div")}const m=a(c,[["render",r]]);export{i as __pageData,m as default};
