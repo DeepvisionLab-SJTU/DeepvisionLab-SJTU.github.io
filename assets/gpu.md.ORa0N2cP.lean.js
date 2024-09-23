@@ -1,0 +1,1 @@
+import{_ as e,G as t,E as a}from"./chunks/framework.C6rubV6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"gpustat","sidebar":false},"headers":[],"relativePath":"gpu.md","filePath":"gpu.md"}'),r={name:"gpu.md"};function s(o,p,n,c,d,i){return a(),t("div")}const f=e(r,[["render",s]]);export{u as __pageData,f as default};
