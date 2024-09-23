@@ -1,0 +1,1 @@
+import{d as e}from"./theme.DY_ndG_M.js";const i=e("auth",{state:()=>({isAuthenticated:!!localStorage.getItem("auth_token")}),actions:{login(){window.location.href="https://github-oauth-worker-deepvision.huiser.workers.dev/login"},setAuthenticated(t){this.isAuthenticated=t},logout(){localStorage.removeItem("auth_token"),this.isAuthenticated=!1}}});export{i as u};
